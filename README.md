@@ -24,7 +24,7 @@
 
 ## Run the service locally
 
-Before you begin refer to [how to start with a nodejs project]() to get detailed documentation for the environment setup. It includes all the necessary download links and guidance.
+Before you begin refer to [how to start with a nodejs project](https://github.com/tf961/nodejs-template/wiki/How-to-Get-Started-with-NodeJS-Template) to get detailed documentation for the environment setup. It includes all the necessary download links and guidance.
 
 For adding environment variables, add `.env` file at the root of the project like below and change the default values if needed:
 
